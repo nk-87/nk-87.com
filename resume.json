@@ -1,0 +1,78 @@
+{
+  "name": "Namho Kim",
+  "title": "Software Engineer",
+  "experience": [
+    {
+      "company": "Buf",
+      "company_url": "https://buf.build",
+      "roles": ["Software Engineer"],
+      "start_date": "2025-05",
+      "end_date": null
+    },
+    {
+      "company": "Calendly",
+      "company_url": "https://calendly.com",
+      "roles": ["Site Reliability Engineer, Platform"],
+      "start_date": "2024-09",
+      "end_date": "2025-05"
+    },
+    {
+      "company": "Fetch",
+      "company_url": "https://fetch.com",
+      "roles": ["Senior Site Reliability Engineer"],
+      "start_date": "2024-01",
+      "end_date": "2024-09"
+    },
+    {
+      "company": "Redpanda",
+      "company_url": "https://redpanda.com",
+      "roles": ["Software Engineer"],
+      "start_date": "2022-04",
+      "end_date": "2024-01"
+    },
+    {
+      "company": "Fetch",
+      "company_url": "https://fetch.com",
+      "roles": [
+        "Senior DevOps Engineer",
+        "Site Reliability Engineer"
+      ],
+      "start_date": "2021-01",
+      "end_date": "2022-04"
+    },
+    {
+      "company": "HashiCorp",
+      "company_url": "https://hashicorp.com",
+      "roles": ["Support Engineer"],
+      "start_date": "2020-03",
+      "end_date": "2021-01"
+    },
+    {
+      "company": "GitLab",
+      "company_url": "https://about.gitlab.com",
+      "roles": ["Support Engineer"],
+      "start_date": "2018-01",
+      "end_date": "2020-02"
+    },
+    {
+      "company": "MediaTemple",
+      "company_url": "https://mediatemple.net",
+      "roles": [
+        "Technical Support Lead",
+        "Technical Support Representative"
+      ],
+      "start_date": "2014-09",
+      "end_date": "2018-01"
+    }
+  ],
+  "education": [
+    {
+      "school": "California State University, Long Beach",
+      "school_url": "https://csulb.edu",
+      "degrees": [
+        { "type": "BA", "subject": "English, Literature" },
+        { "type": "BA", "subject": "English, Creative Writing" }
+      ]
+    }
+  ]
+}
